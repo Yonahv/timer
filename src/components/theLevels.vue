@@ -35,7 +35,7 @@ table {
   border-collapse: collapse;
   width: 100%;
   max-width: 400px; 
-  margin: 0 auto; /* Centers the table horizontally */
+  margin: 0 auto; 
 }
 
 th, td {
