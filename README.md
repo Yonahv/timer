@@ -1,4 +1,4 @@
-# timer
+# Vue Reaction timer App
 
 ## Project setup
 ```
